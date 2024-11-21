@@ -1,0 +1,48 @@
+body {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-top: 20px;
+}
+
+header img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+    color: white;
+}
+
+main {
+    margin: 20px 0;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+table {
+    width: 40%;
+    margin: 20px auto;
+    table-layout: fixed;
+}
+
+td {
+    padding: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
